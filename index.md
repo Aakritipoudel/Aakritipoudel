@@ -12,7 +12,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
 
-**Quantifiable result:** We could predict the Bike rental demand resulting in [**94%** accuracy](https://github.com/suvo-gh/Bike-Rental-Demand/blob/main/Bike_Rental_Demand.ipynb).**Skills used:** Python, Pandas, SKlearn, Matplotlib
+**Quantifiable result:** We could predict the Bike rental demand resulting in [**94%** accuracy](https://github.com/suvo-gh/Bike-Rental-Demand/blob/main/Bike_Rental_Demand.ipynb).
 
 
 - Used Linear Regression to predict the number of bikes rented in the city of Seoul
@@ -30,7 +30,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** Prediction of fraud calls to help users undedrstand and ignore the calls that are not required or are scams.
 
-**Quantifyable result:** We could predict [**93%**](https://github.com/Aakritipoudel/fraud_detection/blob/main/DT%26Ensemple_Proj.ipynb) of the calls as fraud or not accurately.
+**Quantifiable result:** We could predict [**93%**](https://github.com/Aakritipoudel/fraud_detection/blob/main/DT%26Ensemple_Proj.ipynb) of the calls as fraud or not accurately.
 
 - Used decision trees to check if a call is fraud.
 - Classified and predicted what might be a fraud call so it can be ignored.
