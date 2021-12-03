@@ -12,7 +12,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
 
-**Quantifiable result:** We could predict the Bike rental demand resulting in [**94%** accuracy](https://github.com/suvo-gh/Bike-Rental-Demand/blob/main/Bike_Rental_Demand.ipynb).
+**Quantifiable result:** We could predict the Bike rental demand resulting in **94% accuracy **.
 
 
 - Used Linear Regression to predict the number of bikes rented in the city of Seoul
@@ -30,7 +30,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** Prediction of fraud calls to help users undedrstand and ignore the calls that are not required or are scams.
 
-**Quantifiable result:** We could predict [**93%**](https://github.com/Aakritipoudel/fraud_detection/blob/main/DT%26Ensemple_Proj.ipynb) of the calls as fraud or not accurately.
+**Quantifiable result:** We could predict **93%** of the calls as fraud or not accurately.
 
 - Used decision trees to check if a call is fraud.
 - Classified and predicted what might be a fraud call so it can be ignored.
@@ -48,9 +48,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** Classifying Biomechanical Features of Orthopedic Patients based on provided Features to decrease the time required for finding a diagonasis
 
-**Quantifiable result:** We could Classify the type of tumor resulting in [**80%** accuracy using K-means algorithm](https://github.com/suvo-gh/Orthopedic-Patients-Classification).
-
-
+**Quantifiable result:** We could Classify the type of tumor resulting in **80% accuracy** using K-means algorithm
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
