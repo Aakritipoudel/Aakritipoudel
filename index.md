@@ -12,7 +12,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
 
-**Quantifiable result:** We could predict the Bike rental demand resulting in **94% accuracy **.
+**Quantifiable result:** We could predict the Bike rental demand resulting in **94% accuracy**.
 
 
 - Used Linear Regression to predict the number of bikes rented in the city of Seoul
@@ -48,7 +48,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** Classifying Biomechanical Features of Orthopedic Patients based on provided Features to decrease the time required for finding a diagonasis
 
-**Quantifiable result:** We could Classify the type of tumor resulting in **80% accuracy** using K-means algorithm
+**Quantifiable result:** We could Classify the type of tumor resulting in **80%g accuracy** using K-means algorithm
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
