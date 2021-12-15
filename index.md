@@ -22,7 +22,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Diagnosis of breast cancer using a logistic classifier](https://github.com/Aakritipoudel/fraud_detection/blob/main/DT%26Ensemple_Proj.ipynb)
+[Fraud Call Detection using Decision Trees](https://github.com/Aakritipoudel/fraud_detection/blob/main/DT%26Ensemple_Proj.ipynb)
 
 <img src="images/Scams.jpg?raw=true"/>
 
